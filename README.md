@@ -110,15 +110,15 @@ cv2.destroyAllWindows()
 
 
 ### ii) Display the video
-![butterfly 2](https://github.com/user-attachments/assets/0305ac57-632d-427c-a15e-4546106bcff1)
+![butterfly 2](https://github.com/user-attachments/assets/a16e2ea0-976d-4f25-89f3-7c7e22022218)
 
 
 ### iii) Display the video by resizing the window
-![butterfly 3](https://github.com/user-attachments/assets/b7e1f677-8e9f-484f-aaa6-303e0a6fad2b)
+![butterfly 3](https://github.com/user-attachments/assets/cdd7393c-391f-4e81-bde5-60378fd305a1)
 
 
 ### iv) Rotate and display the video
-![butterfly 4](https://github.com/user-attachments/assets/00b7fea5-ddc8-480e-9fbe-b546a5b41f95)
+![butterfly 4](https://github.com/user-attachments/assets/9598f8c4-77d2-44e9-8b61-95eaaef8ebb2)
 
 
 ## Result:
